@@ -1,0 +1,13 @@
+train: data_images/train
+val: data_images/test
+nc: 10
+names: ['chameleon',
+'crocodile',
+'frog',
+'gecko',
+'iguana',
+'lizard',
+'salamander',
+'snake',
+'toad',
+'turtle']
